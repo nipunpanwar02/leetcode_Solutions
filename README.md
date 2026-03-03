@@ -8,8 +8,10 @@ Collection of LeetCode questions...
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
