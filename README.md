@@ -7,6 +7,7 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
@@ -14,4 +15,8 @@ Collection of LeetCode questions...
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
