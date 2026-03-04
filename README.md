@@ -23,4 +23,5 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0007-reverse-integer/) | Medium |
+| [2119-a-number-after-a-double-reversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 <!---LeetCode Topics End-->
