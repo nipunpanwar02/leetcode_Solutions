@@ -19,4 +19,8 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
