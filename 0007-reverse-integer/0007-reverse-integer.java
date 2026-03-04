@@ -1,20 +1,22 @@
 class Solution {
     public int reverse(int x) {
-
-        if (x < 0) {
-            int ans = x * -1;
-            return -1 * rev(ans);
-        } else
-            return rev(x);
-    }
-
-    public static int rev(int n) {
-
-        long ans = 0;
-        for (int i = n; i > 0; i = i / 10) {
-            ans = ans * 10 + i % 10;
+        int temp=0;
+        if(x<0){
+            temp=x*-1;
         }
-        if (ans > Integer.MAX_VALUE || ans < Integer.MIN_VALUE) return 0;
-        return (int)ans;
+        else{
+            temp=x;
+        }
+        int rev = 0;
+        while(temp>0){
+            int lastdigit=temp%10;
+            if(rev>Integer.MAX_VALUE/10 || rev<Integer.MIN_VALUE/10)return 0;
+            rev = rev*10+lastdigit;
+            temp=temp/10;
+        }
+        if(x<0){
+            rev = rev*-1;
+        }
+        return rev;
     }
 }
