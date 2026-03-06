@@ -5,7 +5,7 @@ class Solution {
             int target = nums[i];
             int count = 0;
             for(int j=0;j<nums.length;j++){
-                if((target-nums[j])>0){
+                if(target>nums[j]){
                     count++;
                     ans[i]=count;
                 }
