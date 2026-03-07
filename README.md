@@ -11,6 +11,7 @@ Collection of LeetCode questions...
 | [1480-running-sum-of-1d-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
@@ -23,6 +24,7 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
