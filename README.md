@@ -39,6 +39,7 @@ Collection of LeetCode questions...
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -57,4 +58,8 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 <!---LeetCode Topics End-->
