@@ -6,7 +6,7 @@ class Solution {
         a = a % mod;
 
         for(int digit=0;digit<b.length;digit++){
-            result = (power(result,10,mod) * power(a,b[digit],mod)) % mod;
+            result = (power(result,10,mod) * power(a,b[digit],mod)) % mod;//here we use mod bcoz if we dont use it then it shows error for large exp. value...//
         }
         return result;
     }
