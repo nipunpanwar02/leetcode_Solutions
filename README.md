@@ -30,6 +30,7 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0372-super-pow](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0372-super-pow/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
@@ -66,4 +67,8 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0372-super-pow](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0372-super-pow/) | Medium |
 <!---LeetCode Topics End-->
