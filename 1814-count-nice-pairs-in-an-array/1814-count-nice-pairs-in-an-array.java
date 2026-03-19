@@ -23,9 +23,9 @@ class Solution {
                 map.put(a,map.get(a) + 1);
             }
             else{
-                map.put(a, 1l);
+                map.put(a, 1);
             }
         }
-        return count;
+        return (int)count;
     }
 }
