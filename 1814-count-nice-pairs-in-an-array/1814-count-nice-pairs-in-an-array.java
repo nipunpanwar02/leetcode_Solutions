@@ -12,20 +12,20 @@ class Solution {
     public int countNicePairs(int[] nums) {
         HashMap<Integer,Integer> map = new HashMap<>();
 
-        long count = 0;
+        int count = 0;
         int mod = 1000000007;
 
         for(int i:nums){
             int a =(i-reverse(i));
 
             if(map.containsKey(a)){
-                count = (count + (map.get(a)))%mod;
+                count = (count + (map.get(a)))%mod;   // not count+=map.get(a)%mod...bcoz it will overflow that why we use this to prevent overflow..
                 map.put(a,map.get(a) + 1);
             }
             else{
                 map.put(a, 1);
             }
         }
-        return (int)count;
+        return count;
     }
 }
