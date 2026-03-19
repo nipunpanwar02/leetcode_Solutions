@@ -12,7 +12,7 @@ class Solution {
     public int countNicePairs(int[] nums) {
         HashMap<Integer,Integer> map = new HashMap<>();
 
-        int count = 0;
+        long count = 0;
         int mod = 1000000007;
 
         for(int i:nums){
@@ -23,7 +23,7 @@ class Solution {
                 map.put(a,map.get(a) + 1);
             }
             else{
-                map.put(a, 1);
+                map.put(a, 1l);
             }
         }
         return count;
