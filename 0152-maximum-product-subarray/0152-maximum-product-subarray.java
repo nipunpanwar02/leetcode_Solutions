@@ -6,7 +6,7 @@ class Solution {
 
         for(int i =1;i<nums.length;i++){
             int product = nums[i];
-
+//here we do swap bcoz when a product i negative then the max and min value swaps as negative sign swap the sign..//
             if(product<0){
                 int temp = max;
                 max = min;
