@@ -10,9 +10,9 @@ class Solution {
                 if(st.isEmpty()){
                     return false;
                 }
-                char top = st.pop();
-                
-                if((ch == ')' && top != '(') || (ch == '}' && top != '{') || (ch == ']' && top != '[')){
+                char recent = st.pop();
+
+                if((ch == ')' && recent != '(') || (ch == '}' && recent != '{') || (ch == ']' && recent != '[')){
                     return false;
                 }
             }
