@@ -83,6 +83,7 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0020-valid-parentheses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0647-palindromic-substrings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -106,4 +107,8 @@ Collection of LeetCode questions...
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0647-palindromic-substrings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
