@@ -111,4 +111,20 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 <!---LeetCode Topics End-->
