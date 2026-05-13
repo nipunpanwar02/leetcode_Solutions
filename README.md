@@ -111,15 +111,18 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 ## Breadth-First Search
@@ -129,6 +132,7 @@ Collection of LeetCode questions...
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 <!---LeetCode Topics End-->
