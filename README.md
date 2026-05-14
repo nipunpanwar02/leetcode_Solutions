@@ -21,12 +21,14 @@ Collection of LeetCode questions...
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +51,7 @@ Collection of LeetCode questions...
 | [1572-matrix-diagonal-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
