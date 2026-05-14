@@ -18,7 +18,7 @@ class Solution {
         Stack<TreeNode> st = new Stack<>();
         TreeNode node = root;
         List<Integer> list = new ArrayList<>();
-        if(node == null) return list;
+        if(root == null) return list;
         st.push(root);
 
         while(!st.isEmpty()){
