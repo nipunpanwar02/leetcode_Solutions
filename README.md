@@ -128,6 +128,7 @@ Collection of LeetCode questions...
 | [0144-binary-tree-preorder-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@ Collection of LeetCode questions...
 | [0144-binary-tree-preorder-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +147,7 @@ Collection of LeetCode questions...
 | [0104-maximum-depth-of-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
