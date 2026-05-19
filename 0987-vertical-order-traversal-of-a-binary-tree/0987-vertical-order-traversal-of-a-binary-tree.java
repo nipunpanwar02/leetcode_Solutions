@@ -25,6 +25,7 @@ class Solution {
             this.level = level;
         }
     }
+    //this is level order traversing BFS using queue..//
     public List<List<Integer>> verticalTraversal(TreeNode root) {
         List<List<Integer>> ans = new ArrayList<>();
 
