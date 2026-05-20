@@ -14,39 +14,21 @@
  * }
  */
 class Solution {
-    static class Tuple {
-        TreeNode node;
-        int level;
-
-        Tuple(TreeNode node, int level){
-            this.node = node;
-            this.level = level;
-        }
-    }
+    int maxlevel = -1;
+    int ans = 0;
     public int findBottomLeftValue(TreeNode root) {
-        Queue<Tuple> q = new LinkedList<>();
-        q.add(new Tuple(root, 0));
-
-        int maxlevel = -1;
-        int ans = 0;
-
-        while(!q.isEmpty()){
-            Tuple tuple = q.poll();
-
-            TreeNode node = tuple.node;
-            int level = tuple.level;
-
-            if(level > maxlevel){
-                maxlevel = level;
-                ans = node.val;
-            }
-            if(node.left!=null){
-                q.add(new Tuple(node.left, level + 1));
-            }
-            if(node.right!=null){
-                q.add(new Tuple(node.right, level + 1));
-            }
-        }
+        helper(root, 0);
         return ans;
+    }
+    void helper(TreeNode root, int level){
+        if(root == null) return;
+
+        if(level > maxlevel){
+            maxlevel = level;
+            ans = root.val;
+        }
+
+        helper(root.left, level+1);
+        helper(root.right, level+1);
     }
 }
