@@ -132,6 +132,7 @@ Collection of LeetCode questions...
 | [0104-maximum-depth-of-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -151,6 +152,7 @@ Collection of LeetCode questions...
 | [0104-maximum-depth-of-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -170,6 +172,7 @@ Collection of LeetCode questions...
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -186,6 +189,7 @@ Collection of LeetCode questions...
 | [0104-maximum-depth-of-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -195,4 +199,8 @@ Collection of LeetCode questions...
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 <!---LeetCode Topics End-->
