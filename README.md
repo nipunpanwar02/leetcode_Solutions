@@ -19,6 +19,7 @@ Collection of LeetCode questions...
 | [1920-build-array-from-permutation](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -62,6 +63,7 @@ Collection of LeetCode questions...
 | [1814-count-nice-pairs-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -71,6 +73,7 @@ Collection of LeetCode questions...
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Number Theory
