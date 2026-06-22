@@ -10,7 +10,7 @@ class Solution {
             hash[nums[i]]++;
         }
         for(int i=0;i<=max;i++){
-            boolean left = (i==0 || hash[i-1]==0);
+            boolean left = (i==0 || hash[i-1]==0); //checking left neighbour is 0 or not.bcoz if we do otherway it will be out of bound..//
             boolean right = hash[i+1]==0;
             if(hash[i]==1 && left && right){
                 ans.add(i);
