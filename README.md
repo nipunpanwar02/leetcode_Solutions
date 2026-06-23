@@ -11,6 +11,7 @@ Collection of LeetCode questions...
 | [0217-contains-duplicate](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -63,6 +64,7 @@ Collection of LeetCode questions...
 | [0217-contains-duplicate](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1207-unique-number-of-occurrences](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
