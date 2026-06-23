@@ -61,6 +61,7 @@ Collection of LeetCode questions...
 | ------- | ------- |
 | [0169-majority-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -90,6 +91,7 @@ Collection of LeetCode questions...
 | ------- | ------- |
 | [0169-majority-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -102,6 +104,7 @@ Collection of LeetCode questions...
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0242-valid-anagram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0647-palindromic-substrings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
