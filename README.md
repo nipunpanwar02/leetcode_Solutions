@@ -12,6 +12,7 @@ Collection of LeetCode questions...
 | [0238-product-of-array-except-self](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1002-find-common-characters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode questions...
 | [0242-valid-anagram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1002-find-common-characters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -115,6 +117,7 @@ Collection of LeetCode questions...
 | [0020-valid-parentheses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0647-palindromic-substrings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
+| [1002-find-common-characters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
