@@ -8,12 +8,8 @@ class Solution {
         for(String s:s2.split(" ")){
             map.put(s,map.getOrDefault(s,0)+1);
         }
-        for(String s:s1.split(" ")){
-            if(map.get(s)==1){
-                ans.add(s);
-            }
-        }
-        for(String s:s2.split(" ")){
+        String s3 = s1+" "+s2;
+        for(String s:s3.split(" ")){
             if(map.get(s)==1){
                 ans.add(s);
             }
