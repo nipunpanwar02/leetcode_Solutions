@@ -26,6 +26,7 @@ Collection of LeetCode questions...
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -78,6 +79,7 @@ Collection of LeetCode questions...
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -90,6 +92,7 @@ Collection of LeetCode questions...
 | [1814-count-nice-pairs-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
+| [2248-intersection-of-multiple-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Number Theory
@@ -105,6 +108,7 @@ Collection of LeetCode questions...
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
