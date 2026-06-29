@@ -10,6 +10,7 @@ Collection of LeetCode questions...
 | [0152-maximum-product-subarray](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -71,6 +72,7 @@ Collection of LeetCode questions...
 | [0001-two-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
@@ -264,4 +266,8 @@ Collection of LeetCode questions...
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
