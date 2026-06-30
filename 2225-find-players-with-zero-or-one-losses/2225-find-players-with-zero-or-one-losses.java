@@ -19,6 +19,7 @@ class Solution {
                 list2.add(player);
             }
         }
+        //we can also use treemap bcoz we dont need to sort bcoz treemap is already provide sorted keys..//
         Collections.sort(list1);
         Collections.sort(list2);
         ans.add(list1);
