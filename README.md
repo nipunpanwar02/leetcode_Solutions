@@ -34,6 +34,7 @@ Collection of LeetCode questions...
 | [2248-intersection-of-multiple-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode questions...
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -111,6 +113,7 @@ Collection of LeetCode questions...
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
