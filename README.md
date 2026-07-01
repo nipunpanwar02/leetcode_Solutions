@@ -21,6 +21,7 @@ Collection of LeetCode questions...
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions...
 | [1207-unique-number-of-occurrences](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
@@ -128,6 +130,7 @@ Collection of LeetCode questions...
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -174,6 +177,7 @@ Collection of LeetCode questions...
 | [0005-longest-palindromic-substring](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0647-palindromic-substrings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
