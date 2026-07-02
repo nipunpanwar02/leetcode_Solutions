@@ -12,6 +12,7 @@ Collection of LeetCode questions...
 | [0217-contains-duplicate](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1002-find-common-characters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1002-find-common-characters/) | Easy |
@@ -79,6 +80,7 @@ Collection of LeetCode questions...
 | [0219-contains-duplicate-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0290-word-pattern/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -105,6 +107,7 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
@@ -127,6 +130,7 @@ Collection of LeetCode questions...
 | [0169-majority-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -159,6 +163,7 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0372-super-pow](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0372-super-pow/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -285,4 +290,16 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
