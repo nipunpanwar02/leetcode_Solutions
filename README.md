@@ -7,6 +7,7 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -77,6 +78,7 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -137,6 +139,7 @@ Collection of LeetCode questions...
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -161,6 +164,7 @@ Collection of LeetCode questions...
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0290-word-pattern/) | Easy |
