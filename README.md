@@ -40,6 +40,7 @@ Collection of LeetCode questions...
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -109,6 +110,7 @@ Collection of LeetCode questions...
 | [2215-find-the-difference-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -157,6 +159,7 @@ Collection of LeetCode questions...
 | [1679-max-number-of-k-sum-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -181,6 +184,7 @@ Collection of LeetCode questions...
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3340-check-balanced-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3340-check-balanced-string/) | Easy |
 ## Divide and Conquer
