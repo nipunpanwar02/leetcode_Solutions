@@ -17,6 +17,7 @@ Collection of LeetCode questions...
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0890-find-and-replace-pattern](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1002-find-common-characters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -92,6 +93,7 @@ Collection of LeetCode questions...
 | [0451-sort-characters-by-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0890-find-and-replace-pattern](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1002-find-common-characters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -178,6 +180,7 @@ Collection of LeetCode questions...
 | [0647-palindromic-substrings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0890-find-and-replace-pattern](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1002-find-common-characters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
