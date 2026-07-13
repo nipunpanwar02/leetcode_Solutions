@@ -8,10 +8,15 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             prefix += nums[i];
             int rem = prefix % k;
+
+            if(rem<0){
+                rem = rem + k;
+            }
+
             if(map.containsKey(rem)){
                 int length = i - map.get(rem);
                 if(length >= 2){
-                    check = true;
+                    return true;
                 }
             }
             else{
@@ -19,6 +24,6 @@ class Solution {
             }
 
         }
-        return check;
+        return false;
     }
 }
