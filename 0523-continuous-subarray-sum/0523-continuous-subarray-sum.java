@@ -22,7 +22,6 @@ class Solution {
             else{
                 map.put(rem,i);
             }
-
         }
         return false;
     }
