@@ -49,6 +49,7 @@ Collection of LeetCode questions...
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
@@ -131,6 +132,7 @@ Collection of LeetCode questions...
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -178,6 +180,7 @@ Collection of LeetCode questions...
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -231,6 +234,7 @@ Collection of LeetCode questions...
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0647-palindromic-substrings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
