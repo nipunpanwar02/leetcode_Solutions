@@ -4,7 +4,7 @@ class Solution {
         int count = 0;
 
         for(int num : nums){
-            //we have to check whether 
+            //bcoz absolute value so num[i]-num[j] = k or -k thats why 2 cases..//
             if(map.containsKey(num - k)){
                 count+=map.get(num - k);
             }
