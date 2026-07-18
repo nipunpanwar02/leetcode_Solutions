@@ -9,7 +9,7 @@ class Solution {
                 int need = power - num;
                 
                 if(map.containsKey(need)){
-                    count = (count + map.get(need)) % mod ;
+                    count = (count + map.get(need)) % mod;
                 }
             }
             map.put(num, map.getOrDefault(num,0) +1);
