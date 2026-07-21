@@ -83,6 +83,7 @@ Collection of LeetCode questions...
 | [0523-continuous-subarray-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2364-count-number-of-bad-pairs/) | Medium |
@@ -212,6 +213,7 @@ Collection of LeetCode questions...
 | [1002-find-common-characters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -236,6 +238,7 @@ Collection of LeetCode questions...
 | ------- | ------- |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
