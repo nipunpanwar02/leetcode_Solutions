@@ -217,6 +217,7 @@ Collection of LeetCode questions...
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3340-check-balanced-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3340-check-balanced-string/) | Easy |
