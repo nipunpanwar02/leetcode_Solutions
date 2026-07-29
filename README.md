@@ -218,6 +218,7 @@ Collection of LeetCode questions...
 | [1002-find-common-characters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [1694-reformat-phone-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1694-reformat-phone-number/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
