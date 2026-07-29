@@ -60,6 +60,7 @@ Collection of LeetCode questions...
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0415-add-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions...
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0372-super-pow](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0372-super-pow/) | Medium |
+| [0415-add-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
@@ -206,6 +208,7 @@ Collection of LeetCode questions...
 | [0205-isomorphic-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0290-word-pattern/) | Easy |
+| [0415-add-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0482-license-key-formatting](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0482-license-key-formatting/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
