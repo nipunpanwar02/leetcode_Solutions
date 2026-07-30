@@ -111,6 +111,7 @@ Collection of LeetCode questions...
 | [0347-top-k-frequent-elements](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0383-ransom-note/) | Easy |
+| [0389-find-the-difference](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0525-contiguous-array/) | Medium |
@@ -185,6 +186,7 @@ Collection of LeetCode questions...
 | [0242-valid-anagram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -211,6 +213,7 @@ Collection of LeetCode questions...
 | [0242-valid-anagram](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0383-ransom-note/) | Easy |
+| [0389-find-the-difference](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0415-add-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0482-license-key-formatting](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0482-license-key-formatting/) | Easy |
@@ -397,4 +400,8 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0389-find-the-difference](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
