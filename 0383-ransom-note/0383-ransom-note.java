@@ -13,9 +13,8 @@ class Solution {
             if(!map.containsKey(ch)){
                 return false;
             }
-            else{
-                map.put(ch,map.get(ch) -1);
-            }
+            map.put(ch,map.get(ch) -1);
+            
             if(map.get(ch)==0){
                 map.remove(ch);
             }
