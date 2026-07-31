@@ -12,7 +12,7 @@ class Solution {
                 local = local.substring(0,plus);
             }
 
-            local = local.replace(".", "");
+            local = local.replace(".", "");   //we can replace char with char('.','') || string with string(".","") only..//
 
             set.add(local+ "@" +domain);
         }
