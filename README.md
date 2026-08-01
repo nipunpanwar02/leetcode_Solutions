@@ -57,6 +57,7 @@ Collection of LeetCode questions...
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -92,6 +93,7 @@ Collection of LeetCode questions...
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [3232-find-if-digit-game-can-be-won](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
