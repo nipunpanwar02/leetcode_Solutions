@@ -67,6 +67,7 @@ Collection of LeetCode questions...
 | [1920-build-array-from-permutation](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -245,6 +246,7 @@ Collection of LeetCode questions...
 | [2129-capitalize-the-title](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2129-capitalize-the-title/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3340-check-balanced-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3340-check-balanced-string/) | Easy |
@@ -261,6 +263,7 @@ Collection of LeetCode questions...
 | [0124-binary-tree-maximum-path-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0647-palindromic-substrings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
