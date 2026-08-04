@@ -21,6 +21,7 @@ Collection of LeetCode questions...
 | [0525-contiguous-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0848-shifting-letters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0929-unique-email-addresses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -76,6 +77,7 @@ Collection of LeetCode questions...
 | [0523-continuous-subarray-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0848-shifting-letters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -230,6 +232,7 @@ Collection of LeetCode questions...
 | [0647-palindromic-substrings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0848-shifting-letters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0917-reverse-only-letters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0917-reverse-only-letters/) | Easy |
