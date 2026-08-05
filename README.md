@@ -53,6 +53,7 @@ Collection of LeetCode questions...
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [2381-shifting-letters-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions...
 | [0974-subarray-sums-divisible-by-k](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2381-shifting-letters-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2381-shifting-letters-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +252,7 @@ Collection of LeetCode questions...
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
+| [2381-shifting-letters-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3340-check-balanced-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3340-check-balanced-string/) | Easy |
