@@ -9,15 +9,15 @@ class Solution {
             int dir = shifts[i][2];
 
             if(dir == 1){
-                diff[left] += 1;
+                diff[left] = diff[left] + 1;
                 if(right+1 < n){
-                    diff[right+1] -= 1;
+                    diff[right+1] = diff[right+1] - 1;
                 }
             }
             else{
-                diff[left] -= 1;
+                diff[left] = diff[left] - 1;
                 if(right+1 < n){
-                    diff[right+1] += 1;
+                    diff[right+1] = diff[right+1] + 1;
                 }
             }
         }
