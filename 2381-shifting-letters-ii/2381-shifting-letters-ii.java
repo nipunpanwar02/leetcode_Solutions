@@ -28,7 +28,7 @@ class Solution {
         for(int i =0;i<n;i++){
             int value = arr[i] - 'a';
             value = value + diff[i];
-            value = ((value%26)+26)%26;
+            value = ((value%26)+26)%26;     // To handle the negative diff[i] value we added this it makes it positive and dont throw error..//
             arr[i] = (char)(value + 'a');
         }
         return new String(arr);
