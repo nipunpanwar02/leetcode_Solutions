@@ -253,6 +253,7 @@ Collection of LeetCode questions...
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2381-shifting-letters-ii/) | Medium |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2734-lexicographically-smallest-string-after-substring-operation/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3340-check-balanced-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3340-check-balanced-string/) | Easy |
@@ -276,6 +277,7 @@ Collection of LeetCode questions...
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2734-lexicographically-smallest-string-after-substring-operation/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
