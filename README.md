@@ -20,6 +20,7 @@ Collection of LeetCode questions...
 | [0523-continuous-subarray-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0598-range-addition-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0848-shifting-letters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -92,6 +93,7 @@ Collection of LeetCode questions...
 | [0372-super-pow](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0372-super-pow/) | Medium |
 | [0415-add-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0598-range-addition-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
