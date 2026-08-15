@@ -28,6 +28,7 @@ Collection of LeetCode questions...
 | [0930-binary-subarrays-with-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1002-find-common-characters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1002-find-common-characters/) | Easy |
+| [1109-corporate-flight-bookings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions...
 | [0848-shifting-letters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1109-corporate-flight-bookings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2381-shifting-letters-ii/) | Medium |
