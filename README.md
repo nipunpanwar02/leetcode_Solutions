@@ -39,6 +39,7 @@ Collection of LeetCode questions...
 | [1572-matrix-diagonal-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1711-count-good-meals](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1711-count-good-meals/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -90,6 +91,7 @@ Collection of LeetCode questions...
 | [1094-car-pooling](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1943-describe-the-painting](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1943-describe-the-painting/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2381-shifting-letters-ii/) | Medium |
@@ -150,6 +152,7 @@ Collection of LeetCode questions...
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1711-count-good-meals](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1711-count-good-meals/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
