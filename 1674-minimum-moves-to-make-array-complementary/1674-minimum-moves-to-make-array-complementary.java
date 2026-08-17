@@ -2,6 +2,7 @@ class Solution {
     public int minMoves(int[] nums, int limit) {
         int[] diff = new int[2*limit +2]; //bcoz max possible is (limit+limit+1) +1 to get that index..//
         int n = nums.length;
+        //Sweepline Algo..//
 
         for(int i=0;i<n/2;i++){
             int left = i;
