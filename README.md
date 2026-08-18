@@ -63,6 +63,7 @@ Collection of LeetCode questions...
 | [2395-find-subarrays-with-equal-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2536-increment-submatrices-by-one](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2536-increment-submatrices-by-one/) | Medium |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions...
 | [1732-find-the-highest-altitude](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1943-describe-the-painting](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1943-describe-the-painting/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2381-shifting-letters-ii/) | Medium |
+| [2536-increment-submatrices-by-one](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2536-increment-submatrices-by-one/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +119,7 @@ Collection of LeetCode questions...
 | [1572-matrix-diagonal-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
+| [2536-increment-submatrices-by-one](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2536-increment-submatrices-by-one/) | Medium |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
