@@ -11,6 +11,7 @@ Collection of LeetCode questions...
 | [0128-longest-consecutive-sequence](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions...
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0189-rotate-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0372-super-pow](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0372-super-pow/) | Medium |
 | [0415-add-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -306,6 +308,7 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0189-rotate-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
