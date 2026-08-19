@@ -249,6 +249,7 @@ Collection of LeetCode questions...
 | [0389-find-the-difference](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0415-add-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0459-repeated-substring-pattern](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0482-license-key-formatting](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0482-license-key-formatting/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
@@ -451,4 +452,16 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0389-find-the-difference/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
