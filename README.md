@@ -115,6 +115,7 @@ Collection of LeetCode questions...
 | [2119-a-number-after-a-double-reversal](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
