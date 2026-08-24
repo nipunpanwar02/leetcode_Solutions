@@ -9,7 +9,7 @@ class Solution {
         }
         //Now we start comparing from last[prefix] to first[prefix] to get the max possible diff..//
         int ans = prefix[n-1];
-        for(int i=n-2;i>0;i--){
+        for(int i=n-2;i>0;i--){  // >0 not >=0 bcoz alice have to take atleast 2 stones thats why >0..//
             int finalans = prefix[i] - ans;
             ans = Math.max(ans, finalans);
         }
