@@ -45,6 +45,7 @@ Collection of LeetCode questions...
 | [1711-count-good-meals](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1711-count-good-meals/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
+| [1872-stone-game-viii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1920-build-array-from-permutation](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1943-describe-the-painting](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1943-describe-the-painting/) | Medium |
@@ -95,6 +96,7 @@ Collection of LeetCode questions...
 | [1480-running-sum-of-1d-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1872-stone-game-viii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1943-describe-the-painting](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1943-describe-the-painting/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2536-increment-submatrices-by-one](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2536-increment-submatrices-by-one/) | Medium |
@@ -110,6 +112,7 @@ Collection of LeetCode questions...
 | [0598-range-addition-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
+| [1872-stone-game-viii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
@@ -298,6 +301,7 @@ Collection of LeetCode questions...
 | [0124-binary-tree-maximum-path-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0647-palindromic-substrings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
+| [1872-stone-game-viii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -474,5 +478,14 @@ Collection of LeetCode questions...
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
 <!---LeetCode Topics End-->
