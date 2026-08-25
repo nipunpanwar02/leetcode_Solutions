@@ -70,6 +70,7 @@ Collection of LeetCode questions...
 | [3005-count-elements-with-maximum-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +187,7 @@ Collection of LeetCode questions...
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
