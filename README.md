@@ -26,6 +26,7 @@ Collection of LeetCode questions...
 | [0692-top-k-frequent-words](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0848-shifting-letters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [0896-monotonic-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0929-unique-email-addresses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
