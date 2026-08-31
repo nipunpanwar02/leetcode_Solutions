@@ -35,6 +35,7 @@ Collection of LeetCode questions...
 | [1109-corporate-flight-bookings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -234,6 +235,7 @@ Collection of LeetCode questions...
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1094-car-pooling](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1094-car-pooling/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -311,6 +313,7 @@ Collection of LeetCode questions...
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
