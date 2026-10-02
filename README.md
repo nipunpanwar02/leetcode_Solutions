@@ -26,6 +26,7 @@ Collection of LeetCode questions...
 | [0598-range-addition-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0848-shifting-letters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0896-monotonic-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0896-monotonic-array/) | Easy |
@@ -438,6 +439,7 @@ Collection of LeetCode questions...
 | [0035-search-insert-position](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
