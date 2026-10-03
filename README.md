@@ -61,6 +61,7 @@ Collection of LeetCode questions...
 | [2053-kth-distinct-string-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -215,6 +216,7 @@ Collection of LeetCode questions...
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
@@ -248,6 +250,7 @@ Collection of LeetCode questions...
 | [1679-max-number-of-k-sum-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1943-describe-the-painting](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1943-describe-the-painting/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
