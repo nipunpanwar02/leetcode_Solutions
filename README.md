@@ -116,6 +116,7 @@ Collection of LeetCode questions...
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0069-sqrtx](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0372-super-pow](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0372-super-pow/) | Medium |
 | [0415-add-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
@@ -446,6 +447,7 @@ Collection of LeetCode questions...
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -513,4 +515,8 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1872-stone-game-viii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
