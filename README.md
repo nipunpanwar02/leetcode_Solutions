@@ -118,6 +118,7 @@ Collection of LeetCode questions...
 | [0043-multiply-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0069-sqrtx](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0367-valid-perfect-square](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0372-super-pow](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0372-super-pow/) | Medium |
 | [0415-add-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -449,6 +450,7 @@ Collection of LeetCode questions...
 | [0035-search-insert-position](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0367-valid-perfect-square](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
