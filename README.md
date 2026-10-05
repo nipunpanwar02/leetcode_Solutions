@@ -44,6 +44,7 @@ Collection of LeetCode questions...
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -249,6 +250,7 @@ Collection of LeetCode questions...
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1943-describe-the-painting](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1943-describe-the-painting/) | Medium |
@@ -455,6 +457,7 @@ Collection of LeetCode questions...
 | [0441-arranging-coins](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
