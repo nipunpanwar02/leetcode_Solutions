@@ -1,14 +1,14 @@
 class Solution {
     public int arrangeCoins(int n) {
         if(n<=1) return n;
+
         int low = 0;
         int high = n;
         long count = 0;
 
         while(low < high){
-            int mid = low + (high - low)/2;
-
-            count = (long)mid * (mid+1)/2;
+            int mid = low + (high-low)/2;
+            count = (long) mid * (mid+1)/2;
 
             if(count <= n){
                 low = mid + 1;
