@@ -35,6 +35,7 @@ Collection of LeetCode questions...
 | [0930-binary-subarrays-with-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1002-find-common-characters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1002-find-common-characters/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1094-car-pooling](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -457,6 +458,7 @@ Collection of LeetCode questions...
 | [0441-arranging-coins](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
