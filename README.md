@@ -63,6 +63,7 @@ Collection of LeetCode questions...
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
@@ -337,6 +338,7 @@ Collection of LeetCode questions...
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1927-sum-game/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2734-lexicographically-smallest-string-after-substring-operation/) | Medium |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3106-lexicographically-smallest-string-after-operations-with-constraint/) | Medium |
 ## Two Pointers
@@ -464,6 +466,7 @@ Collection of LeetCode questions...
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
