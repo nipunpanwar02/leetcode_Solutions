@@ -82,6 +82,7 @@ Collection of LeetCode questions...
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2536-increment-submatrices-by-one](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2536-increment-submatrices-by-one/) | Medium |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [2594-minimum-time-to-repair-cars](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
@@ -470,6 +471,7 @@ Collection of LeetCode questions...
 | [2089-find-target-indices-after-sorting-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [2594-minimum-time-to-repair-cars](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
