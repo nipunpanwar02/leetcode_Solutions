@@ -71,6 +71,7 @@ Collection of LeetCode questions...
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
@@ -469,6 +470,7 @@ Collection of LeetCode questions...
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2594-minimum-time-to-repair-cars](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
