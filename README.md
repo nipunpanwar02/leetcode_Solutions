@@ -131,6 +131,7 @@ Collection of LeetCode questions...
 | [0441-arranging-coins](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0598-range-addition-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0598-range-addition-ii/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1872-stone-game-viii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -350,6 +351,7 @@ Collection of LeetCode questions...
 | [0189-rotate-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0647-palindromic-substrings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0917-reverse-only-letters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -462,6 +464,7 @@ Collection of LeetCode questions...
 | [0349-intersection-of-two-arrays](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0441-arranging-coins/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
