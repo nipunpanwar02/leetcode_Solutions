@@ -123,6 +123,7 @@ Collection of LeetCode questions...
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0050-powx-n](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0367-valid-perfect-square](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0367-valid-perfect-square/) | Easy |
@@ -542,4 +543,8 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0069-sqrtx/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
