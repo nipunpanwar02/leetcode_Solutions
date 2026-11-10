@@ -29,6 +29,7 @@ Collection of LeetCode questions...
 | [0704-binary-search](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0848-shifting-letters](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0848-shifting-letters/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0896-monotonic-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0896-monotonic-array/) | Easy |
@@ -468,6 +469,7 @@ Collection of LeetCode questions...
 | [0633-sum-of-square-numbers](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -547,4 +549,8 @@ Collection of LeetCode questions...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0050-powx-n/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
