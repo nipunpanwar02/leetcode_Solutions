@@ -46,6 +46,7 @@ Collection of LeetCode questions...
 | [1094-car-pooling](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -153,6 +154,7 @@ Collection of LeetCode questions...
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
@@ -482,6 +484,7 @@ Collection of LeetCode questions...
 | [0852-peak-index-in-a-mountain-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
