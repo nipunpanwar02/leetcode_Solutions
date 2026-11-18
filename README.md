@@ -46,6 +46,7 @@ Collection of LeetCode questions...
 | [1094-car-pooling](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
@@ -154,6 +155,7 @@ Collection of LeetCode questions...
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -263,6 +265,7 @@ Collection of LeetCode questions...
 | [0692-top-k-frequent-words](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1094-car-pooling](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1094-car-pooling/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
@@ -484,6 +487,7 @@ Collection of LeetCode questions...
 | [0852-peak-index-in-a-mountain-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
@@ -506,6 +510,7 @@ Collection of LeetCode questions...
 | [0451-sort-characters-by-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1094-car-pooling](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1094-car-pooling/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
