@@ -54,6 +54,7 @@ Collection of LeetCode questions...
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -490,6 +491,7 @@ Collection of LeetCode questions...
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nipunpanwar02/leetcode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
